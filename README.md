@@ -6,7 +6,7 @@
   <a href="https://www.antonellavelazquez.com.ar">
     <img src="https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/antonellavelazquez/">
+  <a href="https://www.linkedin.com/in/antonellavvelazquez/">
     <img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=F2C94C" alt="LinkedIn" />
   </a>
   <a href="mailto:antonellavvelazquez@gmail.com">
@@ -24,15 +24,25 @@ Soy desarrolladora **Full-Stack con foco en Frontend**. Diseño y construyo prod
 - 🤖 Exploro automatización e inteligencia artificial aplicada a productos digitales.
 - 🌱 Formación Full-Stack en Soy Henry y aprendizaje continuo en desarrollo web.
 
-## Proyectos seleccionados
+## Proyectos recientes
 
-| Proyecto | Qué construí | Tecnologías y enlaces |
+| Proyecto | Mi trabajo | Ver proyecto |
 | --- | --- | --- |
-| **Akika · E-commerce Full-Stack** | Catálogo, carrito persistente, registro e inicio de sesión, verificación de usuarios, checkout y gestión de pedidos. | `React` `TypeScript` `Node.js` `MongoDB` · [Frontend](https://github.com/Antonellavve/React) · [API](https://github.com/Antonellavve/ProyectoFinalBack) · [Demo](https://react-dsr2.vercel.app/) |
-| **Alpha Sporting · E-commerce** | Tienda de indumentaria deportiva con filtros por categoría, carrito persistente y diseño adaptable. | `JavaScript` `HTML5` `CSS3` · [Repositorio](https://github.com/Antonellavve/IntegradorJS) · [Demo](https://integrador-js-lovat.vercel.app/) |
-| **Portfolio personal** | Experiencia web para presentar mi recorrido, habilidades y proyectos con una identidad visual propia. | `Frontend` `Responsive Design` `Animaciones` · [Visitar sitio](https://www.antonellavelazquez.com.ar) |
+| **Automatización para concesionaria** | Catálogo de vehículos con asistente de IA para responder consultas, capturar interesados y organizar el seguimiento comercial en un mini-CRM. | [Visitar proyecto](https://concesionaria.ceroclawd.com/) |
+| **Presencia Puntana** | Diseño y desarrollo integral de una experiencia web responsive, con presentación del circuito publicitario e integración directa con WhatsApp. | [Visitar sitio](https://presenciapuntana.com/) |
+| **Canicaccia** | Rediseño y desarrollo frontend bilingüe para una empresa italiana, con nueva navegación, mejor jerarquía visual y adaptación responsive. | [Visitar sitio](https://canicaccia.it/) |
+| **ZetaLab Print** | Experiencia de marca y catálogo visual para productos impresos en 3D, packaging, stickers y regalos personalizados. | [Visitar sitio](https://zetalab.com.ar/) |
+| **Atenty** | Landing y producto SaaS con asistente de IA para centralizar conversaciones de WhatsApp, Instagram y Messenger. | [Visitar sitio](https://atenty.com.ar/) |
+| **TI3D Impresiones** | Catálogo digital de impresión 3D, filamentos y productos personalizados, con consulta directa para clientes. | [Visitar sitio](https://ti3d.com.ar/) |
 
-> Podés ver más trabajos, rediseños y proyectos reales en mi [portfolio](https://www.antonellavelazquez.com.ar).
+## Proyectos con código público
+
+| Proyecto | Qué construí | Código y demo |
+| --- | --- | --- |
+| **Akika · E-commerce Full-Stack** | Catálogo, carrito persistente, autenticación, checkout y gestión de pedidos. | [Frontend](https://github.com/Antonellavve/React) · [API](https://github.com/Antonellavve/ProyectoFinalBack) · [Demo](https://react-dsr2.vercel.app/) |
+| **Alpha Sporting · E-commerce** | Tienda responsive con filtros por categoría y carrito persistente. | [Repositorio](https://github.com/Antonellavve/IntegradorJS) · [Demo](https://integrador-js-lovat.vercel.app/) |
+
+> Encontrá el recorrido completo y más trabajos en mi [portfolio](https://www.antonellavelazquez.com.ar).
 
 ## Tecnologías con las que trabajo
 
@@ -61,17 +71,16 @@ Soy desarrolladora **Full-Stack con foco en Frontend**. Diseño y construyo prod
 - Integro frontend, APIs y datos con atención a los estados de carga, errores y validaciones.
 - Combino criterio visual, curiosidad técnica y comunicación clara.
 
-## Actividad en GitHub
+## En qué estoy trabajando
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Antonellavve&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F2C94C&text_color=CFCFCF&icon_color=D4A017&locale=es" alt="Estadísticas de GitHub de Antonella" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonellavve&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F2C94C&text_color=CFCFCF&locale=es" alt="Lenguajes más utilizados por Antonella" />
-</div>
+- Desarrollo de productos web completos, desde la dirección visual hasta la publicación.
+- Automatizaciones con inteligencia artificial aplicadas a atención y seguimiento comercial.
+- Interfaces responsive para proyectos reales de Argentina e Italia.
 
 ## Contacto
 
 - 🌐 [antonellavelazquez.com.ar](https://www.antonellavelazquez.com.ar)
-- 💼 [LinkedIn](https://www.linkedin.com/in/antonellavelazquez/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonellavvelazquez/)
 - ✉️ [antonellavvelazquez@gmail.com](mailto:antonellavvelazquez@gmail.com)
 
 <div align="center">
