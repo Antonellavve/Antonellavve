@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Antonella Velázquez — Frontend &amp; Full-Stack Developer</title>
+  <desc id="description">Banner oscuro con detalles dorados inspirado en la identidad visual del portfolio de Antonella.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505" />
+      <stop offset="0.58" stop-color="#11100D" />
+      <stop offset="1" stop-color="#1A1405" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F6DC78" />
+      <stop offset="0.52" stop-color="#D4A017" />
+      <stop offset="1" stop-color="#8E6500" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#E7B624" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#E7B624" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#background)" />
+  <circle cx="1085" cy="40" r="230" fill="url(#glow)" />
+  <circle cx="80" cy="290" r="180" fill="url(#glow)" opacity="0.7" />
+
+  <g fill="none" stroke="#D4A017" stroke-opacity="0.42">
+    <path d="M940 300c42-72 83-106 133-137 44-28 88-70 115-137" />
+    <path d="M1010 241c-12-32-10-59 6-82" />
+    <path d="M1074 164c-31-3-56-15-74-36" />
+    <path d="M1122 106c-11-26-10-50 4-72" />
+  </g>
+
+  <g fill="url(#gold)" opacity="0.8">
+    <ellipse cx="1018" cy="157" rx="15" ry="30" transform="rotate(25 1018 157)" />
+    <ellipse cx="998" cy="138" rx="14" ry="27" transform="rotate(-42 998 138)" />
+    <ellipse cx="1073" cy="164" rx="14" ry="28" transform="rotate(70 1073 164)" />
+    <ellipse cx="1125" cy="102" rx="13" ry="26" transform="rotate(28 1125 102)" />
+    <ellipse cx="1110" cy="79" rx="12" ry="24" transform="rotate(-36 1110 79)" />
+    <circle cx="1025" cy="146" r="7" fill="#FFE9A0" />
+    <circle cx="1118" cy="91" r="6" fill="#FFE9A0" />
+  </g>
+
+  <rect x="74" y="65" width="74" height="4" rx="2" fill="url(#gold)" />
+  <text x="74" y="133" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Antonella Velázquez</text>
+  <text x="76" y="181" fill="#BEBEBE" font-family="Arial, Helvetica, sans-serif" font-size="24">Frontend &amp; Full-Stack Developer</text>
+  <text x="76" y="224" fill="#E3B52C" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1.6">CONECTO IDEAS · CREO EXPERIENCIAS</text>
+
+  <rect x="1" y="1" width="1198" height="298" rx="25" fill="none" stroke="#D4A017" stroke-opacity="0.2" stroke-width="2" />
+</svg>
